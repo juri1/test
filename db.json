@@ -2,7 +2,7 @@
     "MEASURED_DATA": {
         "RPM": 12.40,
         "TORQUE": 335.11,
-        "POWER": 300.18,
+        "POWER": 300.78,
         "PULSE_RATE_1": 13.24,
         "TOTAL_PULSES_1": 1344823,
         "NMEA_1": "$GPGLL,4916.45,N,12311.12,W,225444,A",
